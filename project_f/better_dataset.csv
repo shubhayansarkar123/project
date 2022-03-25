@@ -1,0 +1,2658 @@
+,Title,InvNo,InvDate,DueDate,Particulars,Qty,Amount,cgst_percentage,sgst_percentage,igst_percentage,cgst_amt,sgst_amt,igst_amt,SubTotalexclTax,DiscountAmount,DueAmount,TotalAmount,Remarks,IFSC,bank_account_no,bankname,branchname,billtoaddress,billtopin,shiptoaddress,seller_gstin,billTo_gstin,shipTo_gstin,statecode,customername,selleremailid,customeremailid,customermobileno,PAN,Signature,HSNSAC,text,des_amt,gst_amt
+0,Tax Invoice,T/21-22/0001,2021-01-04 00:00:00,none,Transportation Charges-GST,none,5500,9.000000%,9.000000%,nan%,495.0,495.0,none,5500,none,none,6490,"Being Invoice raised for Transportation Charges against 
+Bill No - R/SS/01095/21-22, Dt - 15/04/2021 , Job No - 
+TS00003/MBTS/21-22",YESB0000078,7863300001231.0,none, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400051","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400051",27AAGCC4935R1ZZ,27AAECJ0179Q1Z0,27AAECJ0179Q1Z0,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+t/21-22/0001 19-apr-2021
+formerly known as cross trade ecom pvt ltd
+plot no.2, sakivihar road, behind excom house
+mode/terms of payment
+sakinaka, andheri - east, mumbai - 400073
+gstin/uin: 27aagcc4935r1zz
+supplier's ref. other reference(s)
+state name :  maharashtra, code : 27
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+buyer's order no. dated
+buyer
+jft trading (india) private limited(cr)
+terms of delivery
+wework bkc , c-20 g-block bandra kurla 
+complex, mumbai-400051
+gstin/uin : 27aaecj0179q1z0
+pan/it no  :
+state name  : maharashtra, code : 27
+place of supply  : maharashtra
+e-mail :
+indiaorders@danielwellin
+particulars hsn/sac amount
+sl
+no.
+9965
+1
+transportation charges-gst 5,500.00
+2
+cgst 495.00
+3
+sgst 495.00
+total
+6,490.00
+amount chargeable (in words) e. & o.e
+inr six thousand four hundred ninety only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+9965 5,500.00 9% 495.00 9% 495.00 990.00
+total 5,500.00 495.00 495.00 990.00
+tax amount (in words)  :
+inr nine hundred ninety only
+remarks:
+being invoice raised for transportation charges against 
+bill no - r/ss/01095/21-22, dt - 15/04/2021 , job no - 
+company's bank details
+ts00003/mbts/21-22 , b.e no -________, dt - _______ 
+bank name :
+yes bank a/c no. 007863300001231
+, inv no - __________ , dt - _________ .
+a/c no. :
+007863300001231
+company's pan  :
+aagcc4935r
+branch & ifs code:
+andheri east & yesb0000078
+for babaji shivram 4pl solutions private limited
+authorised signatory
+this is a computer generated invoice",Transportation Charges-GST 5500,495.0 495.0
+1,Tax Invoice,T/21-22/0007,2021-04-30 00:00:00,none,Warehouse Rental Charges For the Month of April,none,257336,9.000000%,9.000000%,nan%,23160.24,23160.24,none,257336,none,none,303656,"Being invoice raised for Warehouse Rental Charges for 
+April 2021.",YESB0000078,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400052","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400052",27AAGCC4935R1ZZ,27AAECJ0179Q1Z0,27AAECJ0179Q1Z0,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+t/21-22/0007 30-apr-2021
+formerly known as cross trade ecom pvt ltd
+plot no.2, sakivihar road, behind excom house
+mode/terms of payment
+sakinaka, andheri - east, mumbai - 400073
+gstin/uin: 27aagcc4935r1zz
+supplier's ref. other reference(s)
+state name :  maharashtra, code : 27
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+buyer's order no. dated
+buyer
+jft trading (india) private limited
+9th floor, unit no 903 c wing, one bkc, 
+terms of delivery
+bandra kurla
+ 
+complex, mumbai, mumbai city, maharashtra, 
+400051
+gstin/uin : 27aaecj0179q1z0
+pan/it no  :
+state name  : maharashtra, code : 27
+place of supply  : maharashtra
+particulars hsn/sac amount
+sl
+no.
+996729
+1
+warehouse rental charges 2,57,336.00
+for the month of  april
+2
+cgst 23,160.24
+3
+sgst 23,160.24
+less :
+4
+round off (-)0.48
+total
+3,03,656.00
+amount chargeable (in words) e. & o.e
+inr three lakh three thousand six hundred fifty six only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+996729 2,57,336.00 9% 23,160.24 9% 23,160.24 46,320.48
+total 2,57,336.00 23,160.24 23,160.24 46,320.48
+tax amount (in words)  :
+inr forty six thousand three hundred twenty and forty eight paise only
+remarks:
+company's bank details
+being invoice raised for warehouse rental charges for 
+bank name :
+yes bank a/c no. 007863300001231
+april 2021.
+a/c no. :
+007863300001231
+company's pan  :
+aagcc4935r
+branch & ifs code:
+andheri east & yesb0000078
+for babaji shivram 4pl solutions private limited
+authorised signatory
+this is a computer generated invoice",Warehouse Rental Charges For the Month of April 257336,23160.24 23160.24
+2,REIMBURSEMENT INVOICE,N/21-22/0021,2021-07-31 00:00:00,none,Custom Duty Payable,none,"7,07,669.00",nan%,nan%,nan%,none,none,none,"7,07,669.00",none,none,"7,07,669.00","Being Invoice raised for Custom Duty against Bill No.: R
+/SS/13746/21-22,Dt - 02/07/2021, JOB NO - CB03209
+/MBAI/A/21-22 ,B.E No - 4518869, Dt - 01/07/21 , Inv NO 
+- SO10000084080 , Dt- 24/06/2021.",YESB0000079,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400052","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400052",27AAGCC4935R1ZZ,27AAECJ0179Q1Z1,27AAECJ0179Q1Z0,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","reimbursement invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+n/21-22/0021 31-jul-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+state name :  maharashtra, code : 27
+supplier's ref. other reference(s)
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+www.mypacco.com
+buyer's order no. dated
+buyer
+jft trading (india) private limited
+9th floor, unit no 903 c wing, one bkc, 
+terms of delivery
+bandra kurla
+ 
+complex, mumbai, mumbai city, maharashtra, 
+400051
+gstin/uin : 27aaecj0179q1z0
+pan/it no  :
+state name  : maharashtra, code : 27
+place of supply  : maharashtra
+particulars amount
+sl
+no.
+1
+custom duty payable 7,07,669.00
+total
+7,07,669.00
+amount chargeable (in words)
+e. & o.e
+inr seven lakh seven thousand six hundred sixty 
+nine only
+company's bank details
+bank name :
+yes bank a/c no. 007863300001231
+remarks:
+being invoice raised for custom duty against bill no.: r
+a/c no. :
+007863300001231
+/ss/13746/21-22,dt - 02/07/2021, job no - cb03209
+branch & ifs code:
+andheri east & yesb0000078
+/mbai/a/21-22 ,b.e no - 4518869, dt - 01/07/21 , inv no 
+- so10000084080 , dt- 24/06/2021.
+for babaji shivram 4pl solutions private limited
+company's pan  :
+aagcc4935r
+authorised signatory
+this is a computer generated invoice","Custom Duty Payable 7,07,669.00",none none
+3,Tax Invoice,T/21-22/00048,2021-06-22 00:00:00,none,EX-Works Charges,none," 1,14,468.00",9.000000%,9.000000%,nan%,10302.12,10302.12,none,"1,14,468.00",none,none,135072.24,"Being Invoice raised for Ocean Freight charges and other 
+charges against Bill no - A/SI/03478/20-21, Date : 31-12
+-2020 , Job No.: FF00446/MBOI/20-21.",YESB0000080,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053",27AAGCC4935R1ZZ,27AAECJ0179Q1Z2,27AAECJ0179Q1Z1,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+t/21-22/00048 22-jun-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+supplier's ref. other reference(s)
+state name :  maharashtra, code : 27
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+buyer's order no. dated
+buyer
+jft trading (india) private limited
+terms of delivery
+9th floor, unit no 903 c wing, one bkc, 
+bandra kurla
+ 
+complex, mumbai, mumbai 400051
+gstin/uin
+: 27aaecj0179q1z0
+: maharashtra, code : 27
+state name 
+place of supply 
+: maharashtra
+description of hsn/sac gst amount
+sl
+services rate
+no.
+996531 18 %
+1
+ex-works charges
+1,14,468.00
+996763 18 %
+2
+cc fees
+758.00
+9967 18 %
+3
+door delivery expenses
+1,500.00
+996521 5 %
+4
+ocean freight charges (5% income)
+46,844.00
+5
+sgst
+11,676.44
+6
+cgst
+11,676.44
+total
+1,86,922.88
+amount chargeable (in words) e. & o.e
+inr one lakh eighty six thousand nine hundred twenty two and eighty eight paise only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+996531 1,14,468.00 9% 10,302.12 9% 10,302.12 20,604.24
+996763 758.00 9% 68.22 9% 68.22 136.44
+9967 1,500.00 9% 135.00 9% 135.00 270.00
+996521 46,844.00 2.50% 1,171.10 2.50% 1,171.10 2,342.20
+total 1,63,570.00 11,676.44 11,676.44 23,352.88
+tax amount (in words)  :
+inr twenty three thousand three hundred fifty two and eighty eight paise 
+only
+remarks:
+being invoice raised for ocean freight charges and other 
+company's bank details
+charges against bill no - a/si/03478/20-21, date : 31-12
+bank name :
+yes bank a/c no. 007863300001231
+-2020 , job no.: ff00446/mboi/20-21.
+a/c no. :
+007863300001231
+company's pan  :
+aagcc4935r
+branch & ifs code:
+andheri east & yesb0000078
+declaration
+for babaji shivram 4pl solutions private limited
+we declare that this invoice shows the actual price of the 
+goods described and that all particulars are true and 
+correct.
+authorised signatory
+this is a computer generated invoice","EX-Works Charges  1,14,468.00",10302.12 10302.12
+4,Tax Invoice,T/21-22/00048,2021-06-23 00:00:00,none,CC Fees,none,758,9.000000%,9.000000%,nan%,68.22,68.22,none,758,none,none,894.44,"Being Invoice raised for Ocean Freight charges and other 
+charges against Bill no - A/SI/03478/20-21, Date : 31-12
+-2020 , Job No.: FF00446/MBOI/20-21.",YESB0000081,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400054","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053",27AAGCC4935R1ZZ,27AAECJ0179Q1Z3,27AAECJ0179Q1Z2,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+t/21-22/00048 22-jun-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+supplier's ref. other reference(s)
+state name :  maharashtra, code : 27
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+buyer's order no. dated
+buyer
+jft trading (india) private limited
+terms of delivery
+9th floor, unit no 903 c wing, one bkc, 
+bandra kurla
+ 
+complex, mumbai, mumbai 400051
+gstin/uin
+: 27aaecj0179q1z0
+: maharashtra, code : 27
+state name 
+place of supply 
+: maharashtra
+description of hsn/sac gst amount
+sl
+services rate
+no.
+996531 18 %
+1
+ex-works charges
+1,14,468.00
+996763 18 %
+2
+cc fees
+758.00
+9967 18 %
+3
+door delivery expenses
+1,500.00
+996521 5 %
+4
+ocean freight charges (5% income)
+46,844.00
+5
+sgst
+11,676.44
+6
+cgst
+11,676.44
+total
+1,86,922.88
+amount chargeable (in words) e. & o.e
+inr one lakh eighty six thousand nine hundred twenty two and eighty eight paise only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+996531 1,14,468.00 9% 10,302.12 9% 10,302.12 20,604.24
+996763 758.00 9% 68.22 9% 68.22 136.44
+9967 1,500.00 9% 135.00 9% 135.00 270.00
+996521 46,844.00 2.50% 1,171.10 2.50% 1,171.10 2,342.20
+total 1,63,570.00 11,676.44 11,676.44 23,352.88
+tax amount (in words)  :
+inr twenty three thousand three hundred fifty two and eighty eight paise 
+only
+remarks:
+being invoice raised for ocean freight charges and other 
+company's bank details
+charges against bill no - a/si/03478/20-21, date : 31-12
+bank name :
+yes bank a/c no. 007863300001231
+-2020 , job no.: ff00446/mboi/20-21.
+a/c no. :
+007863300001231
+company's pan  :
+aagcc4935r
+branch & ifs code:
+andheri east & yesb0000078
+declaration
+for babaji shivram 4pl solutions private limited
+we declare that this invoice shows the actual price of the 
+goods described and that all particulars are true and 
+correct.
+authorised signatory
+this is a computer generated invoice",CC Fees 758,68.22 68.22
+5,Tax Invoice,T/21-22/00048,2021-06-24 00:00:00,none,DOOR DELIVERY EXPENSES,none,1500,9.000000%,9.000000%,nan%,135.0,135.0,none,1500,none,none,1770,"Being Invoice raised for Ocean Freight charges and other 
+charges against Bill no - A/SI/03478/20-21, Date : 31-12
+-2020 , Job No.: FF00446/MBOI/20-21.",YESB0000082,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400055","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053",27AAGCC4935R1ZZ,27AAECJ0179Q1Z4,27AAECJ0179Q1Z3,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+t/21-22/00048 22-jun-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+supplier's ref. other reference(s)
+state name :  maharashtra, code : 27
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+buyer's order no. dated
+buyer
+jft trading (india) private limited
+terms of delivery
+9th floor, unit no 903 c wing, one bkc, 
+bandra kurla
+ 
+complex, mumbai, mumbai 400051
+gstin/uin
+: 27aaecj0179q1z0
+: maharashtra, code : 27
+state name 
+place of supply 
+: maharashtra
+description of hsn/sac gst amount
+sl
+services rate
+no.
+996531 18 %
+1
+ex-works charges
+1,14,468.00
+996763 18 %
+2
+cc fees
+758.00
+9967 18 %
+3
+door delivery expenses
+1,500.00
+996521 5 %
+4
+ocean freight charges (5% income)
+46,844.00
+5
+sgst
+11,676.44
+6
+cgst
+11,676.44
+total
+1,86,922.88
+amount chargeable (in words) e. & o.e
+inr one lakh eighty six thousand nine hundred twenty two and eighty eight paise only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+996531 1,14,468.00 9% 10,302.12 9% 10,302.12 20,604.24
+996763 758.00 9% 68.22 9% 68.22 136.44
+9967 1,500.00 9% 135.00 9% 135.00 270.00
+996521 46,844.00 2.50% 1,171.10 2.50% 1,171.10 2,342.20
+total 1,63,570.00 11,676.44 11,676.44 23,352.88
+tax amount (in words)  :
+inr twenty three thousand three hundred fifty two and eighty eight paise 
+only
+remarks:
+being invoice raised for ocean freight charges and other 
+company's bank details
+charges against bill no - a/si/03478/20-21, date : 31-12
+bank name :
+yes bank a/c no. 007863300001231
+-2020 , job no.: ff00446/mboi/20-21.
+a/c no. :
+007863300001231
+company's pan  :
+aagcc4935r
+branch & ifs code:
+andheri east & yesb0000078
+declaration
+for babaji shivram 4pl solutions private limited
+we declare that this invoice shows the actual price of the 
+goods described and that all particulars are true and 
+correct.
+authorised signatory
+this is a computer generated invoice",DOOR DELIVERY EXPENSES 1500,135.0 135.0
+6,Tax Invoice,T/21-22/00048,2021-06-25 00:00:00,none,OCEAN FREIGHT CHARGES (5% INCOME),none,46844,2.500000%,2.500000%,nan%,1171.1,1171.1,none,46844,none,none,49186.2,"Being Invoice raised for Ocean Freight charges and other 
+charges against Bill no - A/SI/03478/20-21, Date : 31-12
+-2020 , Job No.: FF00446/MBOI/20-21.",YESB0000083,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400056","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053",27AAGCC4935R1ZZ,27AAECJ0179Q1Z5,27AAECJ0179Q1Z4,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+t/21-22/00048 22-jun-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+supplier's ref. other reference(s)
+state name :  maharashtra, code : 27
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+buyer's order no. dated
+buyer
+jft trading (india) private limited
+terms of delivery
+9th floor, unit no 903 c wing, one bkc, 
+bandra kurla
+ 
+complex, mumbai, mumbai 400051
+gstin/uin
+: 27aaecj0179q1z0
+: maharashtra, code : 27
+state name 
+place of supply 
+: maharashtra
+description of hsn/sac gst amount
+sl
+services rate
+no.
+996531 18 %
+1
+ex-works charges
+1,14,468.00
+996763 18 %
+2
+cc fees
+758.00
+9967 18 %
+3
+door delivery expenses
+1,500.00
+996521 5 %
+4
+ocean freight charges (5% income)
+46,844.00
+5
+sgst
+11,676.44
+6
+cgst
+11,676.44
+total
+1,86,922.88
+amount chargeable (in words) e. & o.e
+inr one lakh eighty six thousand nine hundred twenty two and eighty eight paise only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+996531 1,14,468.00 9% 10,302.12 9% 10,302.12 20,604.24
+996763 758.00 9% 68.22 9% 68.22 136.44
+9967 1,500.00 9% 135.00 9% 135.00 270.00
+996521 46,844.00 2.50% 1,171.10 2.50% 1,171.10 2,342.20
+total 1,63,570.00 11,676.44 11,676.44 23,352.88
+tax amount (in words)  :
+inr twenty three thousand three hundred fifty two and eighty eight paise 
+only
+remarks:
+being invoice raised for ocean freight charges and other 
+company's bank details
+charges against bill no - a/si/03478/20-21, date : 31-12
+bank name :
+yes bank a/c no. 007863300001231
+-2020 , job no.: ff00446/mboi/20-21.
+a/c no. :
+007863300001231
+company's pan  :
+aagcc4935r
+branch & ifs code:
+andheri east & yesb0000078
+declaration
+for babaji shivram 4pl solutions private limited
+we declare that this invoice shows the actual price of the 
+goods described and that all particulars are true and 
+correct.
+authorised signatory
+this is a computer generated invoice",OCEAN FREIGHT CHARGES (5% INCOME) 46844,1171.1 1171.1
+7,Tax Invoice,T/21-22/00104,2021-09-17 00:00:00,none,Handling Charges(GST),none,30000,9.000000%,9.000000%,nan%,2700.0,2700.0,none,30000,none,none,35400,"Being Inovice raised for Handling Charges and Other 
+Charges against Bill No - A/SA/26076/21-22, Dt -01.
+09.2021, Job No - CB05053/MBAIA/21-22, B.E No 5125802, Dt - 20/08/2021, Inv No - 
+SO10000093125, Dt - 10/08/2021",YESB0000084,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400057","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053",27AAGCC4935R1ZZ,27AAECJ0179Q1Z6,27AAECJ0179Q1Z5,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+t/21-22/00104 17-sep-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+state name :  maharashtra, code : 27
+supplier's ref. other reference(s)
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+www.mypacco.com
+buyer
+buyer's order no. dated
+jft trading (india) private limited
+9th floor, unit no 903 c wing,
+terms of delivery
+one bkc, bandra kurla complex, mumbai,
+   
+mumbai city, maharashtra, 400051
+gstin/uin : 27aaecj0179q1z0
+pan/it no  :
+state name  : maharashtra, code : 27
+place of supply 
+: maharashtra
+particulars hsn/sac gst amount
+sl
+rate
+no.
+9967 18 %
+1
+handling charges(gst) 30,000.00
+9967 18 %
+2
+attendance & agency charges 15,000.00
+9967 18 %
+3
+handling charges(gst) 4,688.89
+9967 18 %
+4
+covid charges 550.00
+5
+cgst 4,521.50
+6
+sgst 4,521.50
+total
+59,281.89
+amount chargeable (in words) e. & o.e
+inr fifty nine thousand two hundred eighty one and eighty nine paise only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+9967 50,238.89 9% 4,521.50 9% 4,521.50 9,043.00
+total 50,238.89 4,521.50 4,521.50 9,043.00
+tax amount (in words)  :
+inr nine thousand forty three only
+remarks:
+being inovice raised for handling charges and other 
+charges against bill no - a/sa/26076/21-22, dt -01.
+company's bank details
+09.2021, job no - cb05053/mbaia/21-22, b.e no- 
+bank name :
+yes bank a/c no. 007863300001231
+5125802, dt - 20/08/2021, inv no - 
+a/c no. :
+007863300001231
+so10000093125, dt - 10/08/2021.
+branch & ifs code
+:
+andheri east & yesb0000078
+company's pan  :
+aagcc4935r
+for babaji shivram 4pl solutions private limited
+authorised signatory
+this is a computer generated invoice",Handling Charges(GST) 30000,2700.0 2700.0
+8,Tax Invoice,T/21-22/00104,2021-09-18 00:00:00,none,Attendance & Agency Charges,none,15000,9.000000%,9.000000%,nan%,1350.0,1350.0,none,15000,none,none,17700,"Being Inovice raised for Handling Charges and Other 
+Charges against Bill No - A/SA/26076/21-22, Dt -01.
+09.2021, Job No - CB05053/MBAIA/21-22, B.E No 5125802, Dt - 20/08/2021, Inv No - 
+SO10000093125, Dt - 10/08/2022",YESB0000085,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400058","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053",27AAGCC4935R1ZZ,27AAECJ0179Q1Z7,27AAECJ0179Q1Z6,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+t/21-22/00104 17-sep-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+state name :  maharashtra, code : 27
+supplier's ref. other reference(s)
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+www.mypacco.com
+buyer
+buyer's order no. dated
+jft trading (india) private limited
+9th floor, unit no 903 c wing,
+terms of delivery
+one bkc, bandra kurla complex, mumbai,
+   
+mumbai city, maharashtra, 400051
+gstin/uin : 27aaecj0179q1z0
+pan/it no  :
+state name  : maharashtra, code : 27
+place of supply 
+: maharashtra
+particulars hsn/sac gst amount
+sl
+rate
+no.
+9967 18 %
+1
+handling charges(gst) 30,000.00
+9967 18 %
+2
+attendance & agency charges 15,000.00
+9967 18 %
+3
+handling charges(gst) 4,688.89
+9967 18 %
+4
+covid charges 550.00
+5
+cgst 4,521.50
+6
+sgst 4,521.50
+total
+59,281.89
+amount chargeable (in words) e. & o.e
+inr fifty nine thousand two hundred eighty one and eighty nine paise only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+9967 50,238.89 9% 4,521.50 9% 4,521.50 9,043.00
+total 50,238.89 4,521.50 4,521.50 9,043.00
+tax amount (in words)  :
+inr nine thousand forty three only
+remarks:
+being inovice raised for handling charges and other 
+charges against bill no - a/sa/26076/21-22, dt -01.
+company's bank details
+09.2021, job no - cb05053/mbaia/21-22, b.e no- 
+bank name :
+yes bank a/c no. 007863300001231
+5125802, dt - 20/08/2021, inv no - 
+a/c no. :
+007863300001231
+so10000093125, dt - 10/08/2021.
+branch & ifs code
+:
+andheri east & yesb0000078
+company's pan  :
+aagcc4935r
+for babaji shivram 4pl solutions private limited
+authorised signatory
+this is a computer generated invoice",Attendance & Agency Charges 15000,1350.0 1350.0
+9,Tax Invoice,T/21-22/00104,2021-09-19 00:00:00,none,Handling Charges(GST),none,4688.89,9.000000%,9.000000%,nan%,420.2001,420.2001,none,4688.89,none,none,5151.2902,"Being Inovice raised for Handling Charges and Other 
+Charges against Bill No - A/SA/26076/21-22, Dt -01.
+09.2021, Job No - CB05053/MBAIA/21-22, B.E No 5125802, Dt - 20/08/2021, Inv No - 
+SO10000093125, Dt - 10/08/2023",YESB0000086,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400059","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053",27AAGCC4935R1ZZ,27AAECJ0179Q1Z8,27AAECJ0179Q1Z7,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+t/21-22/00104 17-sep-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+state name :  maharashtra, code : 27
+supplier's ref. other reference(s)
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+www.mypacco.com
+buyer
+buyer's order no. dated
+jft trading (india) private limited
+9th floor, unit no 903 c wing,
+terms of delivery
+one bkc, bandra kurla complex, mumbai,
+   
+mumbai city, maharashtra, 400051
+gstin/uin : 27aaecj0179q1z0
+pan/it no  :
+state name  : maharashtra, code : 27
+place of supply 
+: maharashtra
+particulars hsn/sac gst amount
+sl
+rate
+no.
+9967 18 %
+1
+handling charges(gst) 30,000.00
+9967 18 %
+2
+attendance & agency charges 15,000.00
+9967 18 %
+3
+handling charges(gst) 4,688.89
+9967 18 %
+4
+covid charges 550.00
+5
+cgst 4,521.50
+6
+sgst 4,521.50
+total
+59,281.89
+amount chargeable (in words) e. & o.e
+inr fifty nine thousand two hundred eighty one and eighty nine paise only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+9967 50,238.89 9% 4,521.50 9% 4,521.50 9,043.00
+total 50,238.89 4,521.50 4,521.50 9,043.00
+tax amount (in words)  :
+inr nine thousand forty three only
+remarks:
+being inovice raised for handling charges and other 
+charges against bill no - a/sa/26076/21-22, dt -01.
+company's bank details
+09.2021, job no - cb05053/mbaia/21-22, b.e no- 
+bank name :
+yes bank a/c no. 007863300001231
+5125802, dt - 20/08/2021, inv no - 
+a/c no. :
+007863300001231
+so10000093125, dt - 10/08/2021.
+branch & ifs code
+:
+andheri east & yesb0000078
+company's pan  :
+aagcc4935r
+for babaji shivram 4pl solutions private limited
+authorised signatory
+this is a computer generated invoice",Handling Charges(GST) 4688.89,420.2001 420.2001
+10,Tax Invoice,T/21-22/00104,2021-09-20 00:00:00,none,Covid Charges,none,550,9.000000%,9.000000%,nan%,49.5,49.5,none,550,none,none,649,"Being Inovice raised for Handling Charges and Other 
+Charges against Bill No - A/SA/26076/21-22, Dt -01.
+09.2021, Job No - CB05053/MBAIA/21-22, B.E No 5125802, Dt - 20/08/2021, Inv No - 
+SO10000093125, Dt - 10/08/2024",YESB0000087,7863300001231.0,Yes Bank, Andheri East,"JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400060","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400053",27AAGCC4935R1ZZ,27AAECJ0179Q1Z9,27AAECJ0179Q1Z8,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",JFT TRADING (INDIA) PRIVATE LIMITED(CR),accounts@mypacco.com,"Indiaorders@danielwellin
+",none,AAGCC4935R,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+babaji shivram 4pl solutions private limited
+formerly known as cross trade ecom pvt ltd
+t/21-22/00104 17-sep-2021
+plot no.2, cts no. 5/7, 6 saki vihar road,
+mode/terms of payment
+behind excom house, sakinaka,
+andheri east, mumbai, maharashtra 400072
+gstin/uin: 27aagcc4935r1zz
+state name :  maharashtra, code : 27
+supplier's ref. other reference(s)
+cin: u74999mh2016ptc282087
+e-mail : accounts@mypacco.com
+www.mypacco.com
+buyer
+buyer's order no. dated
+jft trading (india) private limited
+9th floor, unit no 903 c wing,
+terms of delivery
+one bkc, bandra kurla complex, mumbai,
+   
+mumbai city, maharashtra, 400051
+gstin/uin : 27aaecj0179q1z0
+pan/it no  :
+state name  : maharashtra, code : 27
+place of supply 
+: maharashtra
+particulars hsn/sac gst amount
+sl
+rate
+no.
+9967 18 %
+1
+handling charges(gst) 30,000.00
+9967 18 %
+2
+attendance & agency charges 15,000.00
+9967 18 %
+3
+handling charges(gst) 4,688.89
+9967 18 %
+4
+covid charges 550.00
+5
+cgst 4,521.50
+6
+sgst 4,521.50
+total
+59,281.89
+amount chargeable (in words) e. & o.e
+inr fifty nine thousand two hundred eighty one and eighty nine paise only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+9967 50,238.89 9% 4,521.50 9% 4,521.50 9,043.00
+total 50,238.89 4,521.50 4,521.50 9,043.00
+tax amount (in words)  :
+inr nine thousand forty three only
+remarks:
+being inovice raised for handling charges and other 
+charges against bill no - a/sa/26076/21-22, dt -01.
+company's bank details
+09.2021, job no - cb05053/mbaia/21-22, b.e no- 
+bank name :
+yes bank a/c no. 007863300001231
+5125802, dt - 20/08/2021, inv no - 
+a/c no. :
+007863300001231
+so10000093125, dt - 10/08/2021.
+branch & ifs code
+:
+andheri east & yesb0000078
+company's pan  :
+aagcc4935r
+for babaji shivram 4pl solutions private limited
+authorised signatory
+this is a computer generated invoice",Covid Charges 550,49.5 49.5
+11,Tax Invoice,IN91220552,22-08-2021,2021-01-09 00:00:00,"Order #28117490027 Cloud Instance :
+s2.mypacco.com CPU's :2 , RAM :4 GB , Storage
+:200 GB",1.0,8324,nan%,9.000000%,nan%,749.16,749.16,none,8324,none,none,9822.32,none,UTIB0000553,914020040761640.0,Axis Bank,HYDERABAD-500081,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400072","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",36AAFCC7502D1Z1,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,billing@cloud4c.com,javed.shaikh@babajishivram.com,9867571831.0, AAFCC7502D,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0",none,"Order #28117490027 Cloud Instance :
+s2.mypacco.com CPU's :2 , RAM :4 GB , Storage
+:200 GB 8324",749.16 749.16
+12,Tax Invoice,IN91220552,22-08-2022,2021-01-09 00:00:00,"Order #28117490027 ADDON : Cloud s2.mypacco.com 
+Service Upgrade Upgrade Details: Load Balancer",1.0,5850,9.000000%,9.000000%,nan%,526.5,526.5,none,5850,none,none,6903,none,UTIB0000554,914020040761640.0,Axis Bank,HYDERABAD-500082,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400073","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",36AAFCC7502D1Z2,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,billing@cloud4c.com,javed.shaikh@babajishivram.com,9867571831.0, AAFCC7502D,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0",none,"Order #28117490027 ADDON : Cloud s2.mypacco.com 
+Service Upgrade Upgrade Details: Load Balancer 5850",526.5 526.5
+13,Tax Invoice,IN91220552,22-08-2023,2021-01-09 00:00:00,"Order #0265355488 Cloud Instance : Puratech1 
+CPU's :8 , RAM :4 GB , Storage :200 GB , IP :
+103.8.126.72",1.0,8324,9.000000%,9.000000%,nan%,749.16,0.0081,none,8324,none,none,9073.168099999999,none,UTIB0000555,914020040761640.0,Axis Bank,HYDERABAD-500083,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400074","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",36AAFCC7502D1Z3,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,billing@cloud4c.com,javed.shaikh@babajishivram.com,9867571831.0, AAFCC7502D,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0",none,"Order #0265355488 Cloud Instance : Puratech1 
+CPU's :8 , RAM :4 GB , Storage :200 GB , IP :
+103.8.126.72 8324",749.16 0.0081
+14,Tax Invoice,IN91220552,22-08-2024,2021-01-09 00:00:00,"Order #0265355488 ADDON : Cloud Puratech1 Service
+Upgrade Service UpgradeUpgraded 103.8.126.72
+server to 3 cores",1.0,900,9.000000%,9.000000%,nan%,81.0,81.0,none,900,none,none,1062,none,UTIB0000556,914020040761640.0,Axis Bank,HYDERABAD-500084,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400075","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",36AAFCC7502D1Z4,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,billing@cloud4c.com,javed.shaikh@babajishivram.com,9867571831.0, AAFCC7502D,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0",none,"Order #0265355488 ADDON : Cloud Puratech1 Service
+Upgrade Service UpgradeUpgraded 103.8.126.72
+server to 3 cores 900",81.0 81.0
+15,Tax Invoice,IN91220552,22-08-2025,2021-01-09 00:00:00,"
+Order #0265355488 ADDON : Cloud Puratech1 Service
+Upgrade Upgrade Details;CPU :4,IP: 103.8.126.72",1.0,880,9.000000%,9.000000%,nan%,79.2,79.2,none,880,none,none,1038.4,none,UTIB0000557,914020040761640.0,Axis Bank,HYDERABAD-500085,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400076","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",36AAFCC7502D1Z5,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,billing@cloud4c.com,javed.shaikh@babajishivram.com,9867571831.0, AAFCC7502D,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","invoice : in91220552
+tax invoice (original)
+invoice date : 22-08-2021
+due date : 01-09-2021
+to: from: status: unpaid
+babaji shivram 4pl solutions  cloud4c services private limited, invoice amount :  inr : 32,571.54 
+private limited, plot 16, software units layout, due amount :   inr : 32,019.48 
+plot no.2, cts no. madhapur (hitech-city),
+5/7, 6 saki vihar hyderabad,
+road, behind excom telangana, india - 500081,
+house, sakinaka, contact: +91 40 46 474747
+andheri east plot fax: +91 40 23116055
+no.2, cts no. 5/7, 6 e-mail : billing@cloud4c.com 
+saki vihar road, gstin : 36aafcc7502d1z1 
+behind excom house, sac code : 998315
+sakinaka, andheri east,
+mumbai,
+maharashtra,
+india - 400072
+phone: 9867571831 
+email:
+javed.shaikh@babajishivram.com 
+gstin :27aagcc4935r1zz
+state code :27
+ 
+irn no. - f842fcbd2ac14b7b9a904c32c9c163a532839bf0b1ca25461f14a0f05d226bc5
+ 
+billing 
+sno description duration qty price total inr
+frequency
+order #28117490027 cloud instance :
+01-09-2021
+1 s2.mypacco.com cpu's :2 , ram :4 gb , storage monthly 1.0000 8,324.00 8,324.00
+30-09-2021
+:200 gb , ip :
+order #28117490027 addon : cloud s2.mypacco.com  01-09-2021
+2 monthly 1.0000 5,850.00 5,850.00
+service upgrade upgrade details: load balancer 30-09-2021
+order #0265355488 cloud instance : puratech1 
+01-09-2021
+3 cpu's :8 , ram :4 gb , storage :200 gb , ip : monthly 1.0000 8,324.00 8,324.00
+30-09-2021
+103.8.126.72
+order #0265355488 addon : cloud puratech1 service
+upgrade control panel : plesk 10 domains-2 01-09-2021
+4 monthly 1.0000 3,325.00 3,325.00
+no'sbackup : 100 gb-2no'sbackup agents : one 30-09-2021
+agent-1 no's
+order #0265355488 addon : cloud puratech1 service
+01-09-2021
+5 upgrade service upgradeupgraded 103.8.126.72 monthly 1.0000 900.00 900.00
+30-09-2021
+server to 3 cores.
+order #0265355488 addon : cloud puratech1 service 01-09-2021
+6 monthly 1.0000 880.00 880.00
+upgrade upgrade details;cpu :4,ip: 103.8.126.72 30-09-2021
+subtotal (excl.of taxes): 27,603.00 
+pan : aafcc7502d | tan : hydc06942f | cin : u72900tg2014ptc094973 | tin : 36655200624 | service tax no : aafcc7502dsd002
+subject to hyderabad jurisdiction           page : 1
+this is a computer generated invoice. please contact cloud4c billing for more information at billing@cloud4c.combilling 
+sno description duration qty price total inr
+frequency
+tax igst @18.00 % : 4,968.54
+total : 32,571.54 
+due : 32,019.48 
+payments :
+sno txn id amount txn date txn type status
+1 auto tds adjustment @  552.06 22-08-2021 tds adjustment success
+2.00%
+kindly make payments in favor of cloud4c services private limited
+bank: axis | type: current | account: 914020040761640 | branch : hyderabad-500081 | ifsc : 
+utib0000553 | swift : axisinbb553 | micr : 500211016
+pan : aafcc7502d | tan : hydc06942f | cin : u72900tg2014ptc094973 | tin : 36655200624 | service tax no : aafcc7502dsd002
+subject to hyderabad jurisdiction           page : 2
+this is a computer generated invoice. please contact cloud4c billing for more information at billing@cloud4c.com","
+Order #0265355488 ADDON : Cloud Puratech1 Service
+Upgrade Upgrade Details;CPU :4,IP: 103.8.126.72 880",79.2 79.2
+16,Tax Invoice,698/2020-21,2021-02-01 00:00:00,none,GST Annual Returns GST Annual Return for Apr-18 to Mar-19,none,50000,9.000000%,9.000000%,nan%,4500.0,4500.0,none,50000,none,none,59000,none,IDIB000C161,6623089717.0,Indian Bank,"Chakala Branch, Andheri €","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400077","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",27AATFR7571G1ZI,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,accounts@rhdb.in,none,none,AATFR7571G,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+invoice no. dated
+rhdb and co llp
+698/2020-21 1-feb-21
+a-402 dipti classic, 15 suren road,
+near western express highway
+metro station, andheri (east)
+gstin/uin: 27aatfr7571g1zi
+state name :  maharashtra, code : 27
+e-mail : accounts@rhdb.in
+buyer (bill to)
+babaji shivram 4pl solutions private limited
+plot no. 2, cts no. 5/7,
+opp. saki vihar road,
+sakinaka, andheri (east),
+mumbai 400072
+gstin/uin : 27aagcc4935r1zz
+state name  : maharashtra, code : 27
+place of supply  : maharashtra
+particulars hsn/sac gst amount
+rate
+9982 18 %
+gst annual returns 50,000.00
+gst annual return for apr-18 to mar-19
+cgst 4,500.00
+sgst 4,500.00
+total
+₹ 59,000.00
+amount chargeable (in words) e. & o.e
+inr fifty nine thousand only
+hsn/sac taxable central tax state tax total
+value rate amount rate amount tax amount
+9982 50,000.00 9% 4,500.00 9% 4,500.00 9,000.00
+total 50,000.00 4,500.00 4,500.00 9,000.00
+tax amount (in words)  :
+inr nine thousand only
+prev.balance:
+company's pan  :
+aatfr7571g
+bill amt. :
+59,000.00 dr
+declaration
+net balance:
+59,000.00 dr
+1. msme regn no. udyam-mh-18-0016102 dated 10.
+07.2019.  (payment of invoices should be done within 45 
+days to avoid late payment interest as per provisions of 
+msmed act, 2006)
+company's bank details
+2. please deduct tds on net amount excluding gst 
+bank name :
+indian bank
+charged as per cbdt circular no. 23/2017 dated 19/07
+a/c no. :
+6623089717
+/2017.
+branch & ifs code:
+chakala branch, andheri (e) & idib000c161
+for rhdb and co llp
+authorised signatory
+subject to mumbai jurisdiction",GST Annual Returns GST Annual Return for Apr-18 to Mar-19 50000,4500.0 4500.0
+17,Tax Invoice,AS2218001449,02.05.2021,24.05.2021,Courier Service,none,4149.6,nan%,nan%,18.000000%,none,none,746.93,4149.6,none,none,4897,none,none,none,none,none,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400078","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",none,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,none,none,none,AAACD8017H,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0","tax invoice
+dtdc express limited
+,guwahati apex,near avtar complex, naharani
+path,, last gate, guwahati - 781006 , assam
+b
+                                                  iso 9001 : 2002 certified
+state code 18    www.dtdc.com
+gstin: 18aaacd8017h2zq
+to invoice period apr 2021
+gl1728-babaji shivram 4pl solutions
+invoice no. as2218001449
+private ltd
+plot no 2 sakinaka / mumbai 400072
+invoice date 02.05.2021
+/ in
+invoice amount   3192.00
+sakinaka072
+service charge 0.00
+mumbai-400072 in
+fuel surcharge    957.60
+state code: mh
+discount 0.00
+gstin/unique id: 27aagcc4935r1zz
+covid-19 surcharge 0.00
+place of supply (state name &
+code):maharashtra & 27
+taxable value 4149.60
+po number:
+sgst @ 0% 0.00
+cgst @ 0% 0.00
+igst @ 18% 746.93
+utgst @ 0% 0.00
+total invoice value(inr)   4897.00
+receipt voucher no
+sac no 996812
+service description courier services
+tax subject to reverse charge no
+amount in words(rounded off): four thousand eight hundred ninety seven rupees only
+statutory guidelines
+1.pan no : aaacd8017h
+2.payment should be made only by crossed cheque or dd in favour of
+dtdc express ltd. after obtaining money receipt positively. or neft
+to designated account
+3.payment due date :24.05.2021
+4. any delay in payment after due date : will be charged 24% per
+annum on prorata basis.
+general guidelines
+1. kindly acknowledge the receipt of the bill by handing over the
+bill acknowledgement. duly filled up. to our representive who
+delivers the bill to you.
+2. while making the payment please handover the payment advice with
+full details.
+3. any mistakes/correction found in the invoice has to be reported
+in writing within 7 days from the receipt of the invoice.
+4. this is a computer-generated invoice and hence does not require
+f097295bf8476812c153f6c9fc1cda1c499
+signature.
+07c30aecbc4e4028683591e284e87
+5. for any queries please contact regional commercial department.
+page 1 of 3.................................................................................................................................................................................................
+dtdc express limited
+payment advice (please detach and return with your payment)
+invoice no :as2218001449 date : 02.05.2021 client code : gl1728
+x01 guwahati lakra apex babaji shivram 4pl solutions private
+name of bank cheque/dd-number cheque/dd-date invoice amount tds net amount
+4897.00 inr 4897.00 inr
+amount in words(rounded off): four thousand eight hundred ninety seven rupees only
+please make crossed cheque or dd in favour of 'dtdc express ltd.'
+name : signature : date :
+.................................................................................................................................................................................................
+dtdc express limited
+bill acknowledgement
+client code : invoice no:as2218001449   invoice date :02.05.2021 due date: 24.05.2021
+gl1728
+net amount :4897.00 inr
+client name :babaji shivram 4pl solutions private ltd
+name of the receiver sign & seal
+received date
+page 2 of 3page 3 of 3",Courier Service 4149.6,none none
+18,REIMBURSEMENT INVOICE,R/SS11725/21-22,15/6/21,none,Stamp Duty Navraj Finanace pltd,none,3004,nan%,nan%,nan%,none,none,none,3004,none,none,3004,none,none,none,IDBI BANK,none,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400079","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",27AAACB0466A1ZB,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,none,none,none,AAACB0466A,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0",none,Stamp Duty Navraj Finanace pltd 3004,none none
+19,none,R/SS11725/21-23,20/6/21,none,Transportation Charges Navbharat clearing agent,none,1800,nan%,nan%,nan%,none,none,none,1800,none,none,1800,none,none,none,IDBI BANK,none,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400079","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumba",27AAACB0466A1ZB,27AAGCC4935R1ZZ,27AAGCC4935R1ZZ,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27",BABAJI SHIVRAM 4PL SOLUTIONS PRIVATE LIMITED,none,none,none,AAACB0466A,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0",none,Transportation Charges Navbharat clearing agent 1800,none none
+20,Tax Invoice Cum Cash Receipt,SA02564,15/6/21,none,Stamp Duty processing fee,none,580,9.000000%,9.000000%,nan%,52.0,52.0,none,580,none,none,684,none,none,none,IDBI BANK,none,"BABAJI SHIVRAM 4PL SOLUTIONS 
+PRIVATE LIMITED,
+Plot No.2, CTS No.
+5/7, 6 Saki Vihar
+Road, Behind Excom
+House, Sakinaka,
+Andheri East Plot
+No.2, CTS No. 5/7, 6
+Saki Vihar Road,
+Behind Excom House,
+Sakinaka, Andheri East,
+Mumbai,
+MAHARASHTRA,
+India - 400080","0     400051
+1     400051
+2     400051
+3     400051
+4     400051
+5     400051
+6     400051
+7     400051
+8     400051
+9     400051
+10    400051
+11    400072
+12    400072
+13    400072
+14    400072
+15    400072
+16    400072
+17    400072
+18    400072
+19    400072
+20    400072","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400051",27AAACN1975C1ZN,27AAECJ0179Q1Z0,27AAECJ0179Q1Z0,"0     27
+1     27
+2     27
+3     27
+4     27
+5     27
+6     27
+7     27
+8     27
+9     27
+10    27
+11    27
+12    27
+13    27
+14    27
+15    27
+16    27
+17    27
+18    27
+19    27
+20    27","JFT TRADING (INDIA) PRIVATE LIMITED(CR)
+WeWork BKC , C-20 G-BLOCK BANDRA KURLA 
+COMPLEX, MUMBAI-400051",none,none,none,AAACN1975C,none,"0       9965.0
+1     996729.0
+2          NaN
+3     996531.0
+4     996763.0
+5       9967.0
+6     996521.0
+7       9967.0
+8       9967.0
+9       9967.0
+10      9967.0
+11         NaN
+12         NaN
+13         NaN
+14         NaN
+15         NaN
+16      9982.0
+17    996812.0
+18         NaN
+19         NaN
+20    998599.0",none,Stamp Duty processing fee 580,52.0 52.0
